@@ -1,6 +1,6 @@
 # 🚴‍♂️ Bike Share Dashboard
 
-Welcome to the **Bike Share Dashboard** project! This repository contains an interactive data visualization dashboard developed to provide insights into a bike-sharing service. The dashboard is designed to support data-driven decision-making by displaying key performance metrics.
+Welcome to the **Toman Bike Share Dashboard** project! This repository contains an interactive data visualization dashboard developed to provide insights into a bike-sharing service. The dashboard is designed to support data-driven decision-making by displaying key performance metrics.
 
 ## 🌟 Project Overview
 
